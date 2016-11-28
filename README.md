@@ -101,6 +101,8 @@ img {
     
 }
 
+http://www.w3schools.com/css/css_align.asp
+
 #Our second topic:
 
 ##CSS Transitions
